@@ -21,8 +21,8 @@ Execute the C Program for the desired output.
 # PROGRAM:
 ## Write a C program that illustrates two processes communicating using shared memory.
 ```
-devoloped by:VEERARAGAVAN V
-register number:212223230237
+devoloped by:ARUN KUMAR B
+register number:212223230021
 #include <stdio.h>
 #include <sys/ipc.h>
 #include <sys/shm.h>
